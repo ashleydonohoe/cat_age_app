@@ -12,6 +12,7 @@
 		E0892A781B6CA151000EBFFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0892A761B6CA151000EBFFD /* Main.storyboard */; };
 		E0892A7A1B6CA151000EBFFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0892A791B6CA151000EBFFD /* Assets.xcassets */; };
 		E0892A7D1B6CA151000EBFFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0892A7B1B6CA151000EBFFD /* LaunchScreen.storyboard */; };
+		E0892A851B6CA25A000EBFFD /* 6974484-cute-cat-smile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0892A841B6CA25A000EBFFD /* 6974484-cute-cat-smile.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E0892A791B6CA151000EBFFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0892A7C1B6CA151000EBFFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0892A7E1B6CA151000EBFFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0892A841B6CA25A000EBFFD /* 6974484-cute-cat-smile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "6974484-cute-cat-smile.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E0892A721B6CA151000EBFFD /* AppDelegate.swift */,
 				E0892A741B6CA151000EBFFD /* ViewController.swift */,
 				E0892A761B6CA151000EBFFD /* Main.storyboard */,
+				E0892A841B6CA25A000EBFFD /* 6974484-cute-cat-smile.jpg */,
 				E0892A791B6CA151000EBFFD /* Assets.xcassets */,
 				E0892A7B1B6CA151000EBFFD /* LaunchScreen.storyboard */,
 				E0892A7E1B6CA151000EBFFD /* Info.plist */,
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0892A7D1B6CA151000EBFFD /* LaunchScreen.storyboard in Resources */,
+				E0892A851B6CA25A000EBFFD /* 6974484-cute-cat-smile.jpg in Resources */,
 				E0892A7A1B6CA151000EBFFD /* Assets.xcassets in Resources */,
 				E0892A781B6CA151000EBFFD /* Main.storyboard in Resources */,
 			);
